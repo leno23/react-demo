@@ -40,7 +40,7 @@
     "copy-webpack-plugin": "^4.0.1",
     "cross-env": "^3.2.4",
     "css-loader": "^0.23.0",
-    "eslint": "^1.10.3",
+    "eslint": "^4.19.1",
     "eslint-friendly-formatter": "^1.2.2",
     "eslint-loader": "^1.2.0",
     "eslint-plugin-babel": "^3.2.0",
